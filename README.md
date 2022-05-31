@@ -6,3 +6,4 @@
 >- Exclude all .tfvars files
 >- Override files
 >- CLI configuration files
+>- New string 1
