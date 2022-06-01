@@ -8,3 +8,4 @@
 >- CLI configuration files
 >- add fix0.1
 >- add commit using IDE
+>- add commit using IDE
