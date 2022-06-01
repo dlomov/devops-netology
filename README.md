@@ -6,3 +6,4 @@
 >- Exclude all .tfvars files
 >- Override files
 >- CLI configuration files
+>- add fix0.1
