@@ -7,3 +7,4 @@
 >- Override files
 >- CLI configuration files
 >- add fix0.1
+>- add commit using IDE
